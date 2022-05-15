@@ -9,3 +9,6 @@ para superar el juego consta de tan solo 5 rondas del juego;
 Para hacer uso de este o hacer las modificaciones que desee basta con  modificar el archivo de la configuración en la ruta */src/config/ConfigConexion.propertie*s; en este archivo se encuentran los datos de configuración de la base de datos para ser modificados a sus necesidades.
 
 Tambien se adjunta el archivo sql con las sentencias para la creaciòn de la base de datos y cuenta con 25 preguntas por defecto.
+
+
+Para el acceso a la configuracion de pregunta se hace con el usuario ***admin*** y clave ***1234***.
